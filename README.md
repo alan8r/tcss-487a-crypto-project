@@ -1,5 +1,5 @@
 # Cryptography class project
-This project contains a Java terminal application for asymmetric encryption and digital signatures at the 256-but security level.
+This project contains a Java terminal application for asymmetric encryption and digital signatures at the 256-bit security level.
 
 This is achieved via implementation of the SHA-3 derived KMACXOF256 primitive (and supporting functions _bytepad_, _encode_string_, _left_encode_, _right_encode_, and the _Keccak_ core algorithm itself) as specified in NIST Special Publication 800-185 (https://dx.doi.org/10.6028/NIST.SP.800-185)
 
