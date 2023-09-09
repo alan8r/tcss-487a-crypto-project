@@ -1,0 +1,4 @@
+This is an awesome text test file, every one says so.
+You can only wish to write a test text file as this.
+I has upper case letters and 255 characters.
+It also includes chars like ƒ ‰ Š € ™ © ® ° µ ¼ æ ø ÷.
