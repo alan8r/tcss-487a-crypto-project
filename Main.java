@@ -554,7 +554,7 @@ public class Main {
 				"Please select one of these generous offerings...",
 		GOODBYE = "\nThank you for visiting KMAC-MART, have a great day!",
 		
-		OPT_SELCT = "Please enter the option you wish to use here: ",
+		OPT_SELCT = "Please enter the option you wish to use here (Ctrl-c exits): ",
 		OPT_SELCT_BAD = " is not a valid option! You will try again...",
 		OPT0 = "\nENTER  0  TO EXIT PROGRAM",
 		
